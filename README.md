@@ -1,7 +1,7 @@
 # parameter-predictions
 **Predicting Solar Cell Parameters Using Neural Networks Trained on Experimental Data**
 
-This is the repo for the scanning project. The goal of this project is to be able to predict the materials parameters of PbS colloidal quantum dot thin film solar cells from JV curves.
+This is the repo for the scanning solar cell project. The goal of this project is to be able to predict the materials parameters of PbS colloidal quantum dot thin film solar cells from JV curves.
 
 Folder Directory:
 * data contains measured materials parameters
