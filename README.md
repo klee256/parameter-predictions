@@ -7,7 +7,6 @@ Folder Directory:
 * data contains measured materials parameters
 * ml contains HPC code and ML related programs
 * functions contains programs used for data calculations
-* tools contains programs used to perform ancillary tasks
 
 Requires the following MATLAB toolboxes:
 * Simulink                                              Version 10.5        (R2022a)
