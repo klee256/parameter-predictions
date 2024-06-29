@@ -1,0 +1,10 @@
+#!/bin/bash
+#SBATCH --partition=parallel
+#SBATCH --time=72:00:00
+#SBATCH --nodes=4
+#SBATCH --cpus-per-task=48
+#SBATCH --mem=0
+#SBATCH --mail-type=end
+
+module load matlab/R2024a
+matlab -nodisplay -nosplash -nodesktop -r main
