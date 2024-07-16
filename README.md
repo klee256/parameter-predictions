@@ -20,6 +20,8 @@ Requires the following MATLAB toolboxes:
 * Reinforcement Learning Toolbox                        Version 2.2         (R2022a)
 * Signal Processing Toolbox                             Version 9.0         (R2022a)
 * Statistics and Machine Learning Toolbox               Version 12.3        (R2022a)
+* Model-Based Calibration Toolbox
+* Predictive Maintenance Toolbox
 * Bioinformatic Toolbox					Version 4.17        (R2023a)
 * Data Acquisition Toolbox				Version 4.7         (R2023a)
 * Optimization Toolbox					Version 9.5         (R2023a)
